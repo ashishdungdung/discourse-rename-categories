@@ -3,7 +3,7 @@
 # version: 0.1
 # authors: Ashish Dungdung
 
-register_asset "javascripts/discourse-plugin-hubterminology.js"
+register_asset "javascripts/discourse-plugin-category-terminology.js"
 
 after_initialize do
   # Add initialization code here if needed
